@@ -7,6 +7,6 @@ A simple app showing happiness meter.
 
 ## Inpiration
 
-<iframe width="315" height="560" src="https://www.youtube.com/shorts/lYMxO7VQYOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Thermometer App](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FlYMxO7VQYOw)](https://youtu.be/lYMxO7VQYOw)
 
 See on [Youtube](https://www.youtube.com/shorts/lYMxO7VQYOw)
