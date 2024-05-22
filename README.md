@@ -7,10 +7,6 @@ A simple app showing happiness meter.
 
 ## Inpiration
 
-`
-[![Flutter Custom UI challenge (Smart Home Humidity App)-Demo]
-(https://img.youtube.com/vi/lYMxO7VQYOw/0.jpg)]
-(https://www.youtube.com/shorts/lYMxO7VQYOw)
-`
+<iframe width="315" height="560" src="https://www.youtube.com/shorts/lYMxO7VQYOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See on [Youtube](https://www.youtube.com/shorts/lYMxO7VQYOw)
